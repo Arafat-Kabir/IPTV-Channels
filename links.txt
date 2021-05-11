@@ -1,3 +1,8 @@
 http://www.iptvtools.net/
 https://github.com/aniksarakash/IPTV
 https://github.com/Shadmanislam/bdiptv
+
+Jagobd: http://www.jagobd.com/rtv
+Logos: https://raw.githubusercontent.com/devsground/IPTV/master/channels_V2/bdix/bdix_bdtv.m3u
+My-Channels: https://tinyurl.com/6upueyw
+
