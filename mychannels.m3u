@@ -26,11 +26,17 @@ https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 
+
 #EXTINF:-1 tvg-id="ColourBangla.in" tvg-name="Colour Bangla" tvg-country="IN" tvg-language="" tvg-logo="https://tinyurl.com/37p4rwr6" group-title="IND",Colour Bangla
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8 
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2Y9KTc8" group-title="IND",9xM
+#EXTINF:-1 tvg-logo="https://tinyurl.com/nxk4byx2" group-title="IND",9xM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="https://tinyurl.com/u5fdh58p" group-title="IND",&privé HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pu2mgFa.jpg" group-title="US",Fox News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/npaOE9P.png" group-title="US",CBSN
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
